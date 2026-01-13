@@ -48,6 +48,20 @@ O dataset contém informações de produtos de supermercado com as seguintes col
 ---
 
 ## 📊 Etapas da Análise
+### 📸 Visualizações do projeto
+Abaixo estão algumas das principais visualizações geradas durante a análise:
+
+🔹 Boxplot – Distribuição do Preço Normal por Categoria
+![Boxplot do Preço Normal por Categoria](Images/boxplot.png)
+
+🔹 Boxplot – Distribuição do Preço Normal categoria Lactea
+![Boxplot do Preço Normal por Categoria](Images/boxplot(1).png)
+
+🔹 Gráfico de Barras – Média de Desconto por Categoria
+![Média de Desconto por Categoria](Images/Barras.png)
+
+🔹 Heatmap – Média de Desconto por Categoria e Marca
+![Heatmap – Média de Desconto por Categoria e Marca](Images/Heatmap.png)
 
 ### 1️⃣ Análise Exploratória
 
