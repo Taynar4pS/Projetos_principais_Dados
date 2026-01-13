@@ -61,7 +61,7 @@ Abaixo estão algumas das principais visualizações geradas durante a análise:
 ![Média de Desconto por Categoria](Outputs/Imagens/Barras.png)
 
 🔹 Heatmap – Média de Desconto por Categoria e Marca
-![Heatmap – Média de Desconto por Categoria e Marca](Outputs/Imagens/Heatmap.png)
+![Heatmap – Média de Desconto por Categoria e Marca](Outputs/Imagens/Headmap.png)
 
 ### 1️⃣ Análise Exploratória
 
