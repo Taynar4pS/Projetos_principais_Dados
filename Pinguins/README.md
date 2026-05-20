@@ -10,13 +10,13 @@ O objetivo da análise é verificar **como algoritmos de clusterização consegu
 
 ### Clusterização usando características físicas
 
-![Clusters Pinguins](./Pinguins/Outputs/ClustersPinguins.gif)
+![Clusters Pinguins](Pinguins/Outputs/ClustersPinguins.gif)
 
 ---
 
 ### Clusterização considerando espécie e massa corporal
 
-![Clusters Pinguins Espécie](./Pinguins/Outputs/ClustersPinguinsEspecie.gif)
+![Clusters Pinguins Espécie](Pinguins/Outputs/ClustersPinguinsEspecie.gif)
 
 ---
 
