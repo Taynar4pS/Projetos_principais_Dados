@@ -3,7 +3,14 @@
 Projeto de **Machine Learning não supervisionado** utilizando o algoritmo **K-Means** para identificar padrões e agrupamentos entre diferentes espécies de pinguins com base em características físicas.
 
 O objetivo da análise é verificar **como algoritmos de clusterização conseguem separar automaticamente espécies diferentes** a partir de dados biométricos.
+---
+# Insights:
+- As características físicas utilizadas no modelo diferenciam bem os pinguins Adelie das outras espécies.
+- A espécie Gentoo apresenta características físicas muito distintas, permitindo ao algoritmo separá-la perfeitamente.
+- Existe pequena sobreposição entre Chinstrap e Adelie, indicando que algumas medidas corporais são semelhantes entre essas espécies.
 
+
+- A clusterização conseguiu separar bem as espécies de pinguins. O cluster 1 identificou perfeitamente os indivíduos da espécie Gentoo, enquanto os clusters 0 e 2 representaram majoritariamente Chinstrap e Adelie. Pequenas sobreposições indicam similaridade entre algumas características físicas dessas duas espécies, o que é esperado em dados biológicos.
 ---
 
 # 📊 Visualização dos Clusters
