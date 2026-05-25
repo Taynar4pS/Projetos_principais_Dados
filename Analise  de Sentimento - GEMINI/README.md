@@ -17,6 +17,19 @@ A análise de sentimentos é amplamente utilizada em:
 - Estudos de comportamento e opinião.
 
 ---
+## 🤖 Modelo de Machine Learning
+
+Para realizar a análise de sentimentos foi utilizado um modelo de classificação supervisionada com Regressão Logística.
+
+O pipeline incluiu:
+
+- Limpeza textual;
+- Tokenização;
+- Vetorização dos textos com TF-IDF;
+- Treinamento do modelo;
+- Predição dos sentimentos;
+- Avaliação dos resultados.
+---
 
 ## 🚀 Tecnologias Utilizadas
 
