@@ -29,7 +29,12 @@ A análise de sentimentos é amplamente utilizada em:
 - NLP (Processamento de Linguagem Natural)
 
 ---
+## 🎥 Demonstração do Projeto
 
+<p align="center">
+  <img src="Outputs/Imagens/AnaliseSentimento-Gemini.gif" alt="Demonstração do Projeto" width="800">
+</p>
+---
 ## 📂 Estrutura do Projeto
 
 ```bash
