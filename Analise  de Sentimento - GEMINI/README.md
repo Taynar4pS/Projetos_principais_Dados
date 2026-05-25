@@ -1,6 +1,6 @@
-# 📊 Análise de Sentimentos com Gemini
+# 📊 Análise de Sentimentos com dados do Gemini
 
-Projeto de análise de sentimentos utilizando a API do Google Gemini para classificação de textos em sentimentos positivos, negativos e neutros, permitindo extrair insights a partir de avaliações, comentários e opiniões de usuários.
+Projeto de análise de sentimentos utilizando dados do Google Gemini e regressão logistica para classificação de textos em sentimentos positivos, negativos e neutros, permitindo extrair insights a partir de avaliações, comentários e opiniões de usuários.
 
 ---
 
