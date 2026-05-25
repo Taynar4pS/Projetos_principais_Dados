@@ -186,7 +186,7 @@ Com este projeto é possível:
 ---
 ## Link do Dashboard Publicado
 ```
-<iframe title="AnaliseSentimental-Gemini" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 ```
 ---
 ## 👩‍💻 Autora
