@@ -186,7 +186,7 @@ Com este projeto é possível:
 ---
 ## Link do Dashboard Publicado
 ```
-https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+[https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiMWZlOTcyZGQtMzY5NC00MTI2LTk0YTMtNGQwY2VhYzU3YzdjIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)](https://app.powerbi.com/groups/me/reports/ececc6fd-4b87-438e-9649-702b939bf4f5/7ca621d10429b4e04ed8?experience=power-bi)
 ```
 ---
 ## 👩‍💻 Autora
