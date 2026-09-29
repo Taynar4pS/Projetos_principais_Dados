@@ -32,6 +32,7 @@ O projeto tem como foco principal demonstrar a aplicação prática de **SQL na 
 Os dados foram inicialmente preparados utilizando Python e posteriormente armazenados em um banco **SQLite** para realização das análises SQL.
 
 **Link para acessar a base de dados:** https://siros.anac.gov.br/siros/registros/diversos/vra/2026/
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
