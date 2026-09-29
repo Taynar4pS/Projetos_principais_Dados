@@ -59,82 +59,74 @@ Contém os registros das viagens e informações relacionadas aos voos.
 ### Dimensão
 
 **`dim_empresas`**
+
+Contém informações das companhias aéreas, permitindo relacionar o código ICAO da empresa ao respectivo nome.
+
 **`dim_aeroporto`**
 
-Contém informações das companhias aéreas, permitindo relacionar o código ICAO da empresa aos seus respectivos nomes.
-
+Contém informações relacionadas aos aeroportos, permitindo complementar os registros de viagens com informações de identificação dos aeroportos.
 ---
 
-## 🔎 Análises realizadas
+🔎 Análises realizadas
+1. Total de viagens
 
-### 1. Total de viagens
+Foi realizada a contagem do total de registros disponíveis na tabela fato_viagens.
 
-Primeiro foi realizada a contagem do total de registros de viagens disponíveis na tabela `fato_viagens`.
+Objetivo: identificar o volume total de viagens analisadas.
 
-**Objetivo:** identificar o volume total de viagens analisadas.
+Conceito principal:
 
----
+COUNT()
+2. Ranking das companhias aéreas
 
-### 2. Ranking das companhias aéreas
+Foi elaborado um ranking das companhias aéreas com maior quantidade de voos.
 
-Foi realizado um ranking das companhias com maior quantidade de voos.
+A análise utiliza a tabela fato_viagens relacionada à dim_empresas.
 
-Para isso, foi utilizado um `JOIN` entre `fato_viagens` e `dim_empresas`, seguido de agrupamento e ordenação.
+Conceitos utilizados:
 
-**Principais recursos SQL utilizados:**
+JOIN
+COUNT()
+GROUP BY
+ORDER BY
+LIMIT
+3. Situação dos voos por companhia
 
-* `JOIN`
-* `COUNT`
-* `GROUP BY`
-* `ORDER BY`
-* `LIMIT`
+Foi analisada a quantidade de voos de cada companhia de acordo com a situação registrada na base.
 
----
+Objetivo: observar como os voos estão distribuídos entre as diferentes situações disponíveis nos dados.
 
-### 3. Situação dos voos por companhia
+Conceitos utilizados:
 
-A terceira análise relaciona cada companhia aérea à situação de seus voos.
+JOIN
+COUNT()
+GROUP BY
+ORDER BY
+4. Movimentação por aeroporto
 
-**Objetivo:** compreender como os registros de voos estão distribuídos entre as diferentes situações disponíveis na base.
+Foi realizada uma análise da quantidade de voos associada aos aeroportos utilizando a tabela dim_aeroporto.
 
-**Principais recursos SQL utilizados:**
+Objetivo: identificar os aeroportos com maior movimentação de voos no período analisado.
 
-* `JOIN`
-* `COUNT`
-* `GROUP BY`
-* `ORDER BY`
+Conceitos utilizados:
 
----
+JOIN
+COUNT()
+GROUP BY
+ORDER BY
+LIMIT
+5. Evolução dos voos ao longo de 2026
 
-### 4. Indicador de desempenho das companhias
+Foi analisada a distribuição das viagens ao longo do ano de 2026.
 
-Será desenvolvido um indicador utilizando a situação dos voos para calcular uma métrica proporcional por companhia.
+Objetivo: observar a variação do volume de voos durante o período analisado.
 
-**Objetivo:** ir além da contagem absoluta e comparar o comportamento das empresas considerando o volume total de voos.
+Conceitos utilizados:
 
-**Recursos SQL envolvidos:**
-
-* `CASE WHEN`
-* `COUNT`
-* operações matemáticas
-* `GROUP BY`
-
----
-
-### 5. Evolução dos voos ao longo de 2026
-
-A última análise terá como objetivo observar a distribuição das viagens ao longo do ano de 2026.
-
-**Objetivo:** identificar variações no volume de voos durante o período analisado.
-
-**Recursos SQL envolvidos:**
-
-* funções de data
-* `GROUP BY`
-* `ORDER BY`
-* agregações
-
----
+funções de data;
+COUNT();
+GROUP BY;
+ORDER BY.
 
 ## 📚 Conceitos de SQL praticados
 
