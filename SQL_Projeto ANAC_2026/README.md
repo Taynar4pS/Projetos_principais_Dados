@@ -160,7 +160,8 @@ projeto-anac-sql/
 ├── README.md
 │
 ├── sql/
-│   └── analise_anac_2026.sql
+    ├── create_tables.sql     <-- O documento com a estrutura das tabelas (DDL)
+│   └── analise_anac_2026.sql <-- O documento com as suas queries de análise
 │
 ├── python/
 │   └── preparacao_dados.py
