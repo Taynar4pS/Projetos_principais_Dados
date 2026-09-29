@@ -31,7 +31,8 @@ O projeto tem como foco principal demonstrar a aplicação prática de **SQL na 
 
 Os dados foram inicialmente preparados utilizando Python e posteriormente armazenados em um banco **SQLite** para realização das análises SQL.
 
-**Link para acessar a base de dados:** https://siros.anac.gov.br/siros/registros/diversos/vra/2026/
+Os dados originais utilizados neste projeto são públicos e fornecidos pela ANAC. 
+* O ficheiro completo da tabela de factos (`fato_viagens`) pode ser descarregado através deste https://siros.anac.gov.br/siros/registros/diversos/vra/2026/
 
 ---
 
