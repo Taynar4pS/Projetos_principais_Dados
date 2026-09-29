@@ -59,6 +59,7 @@ Contém os registros das viagens e informações relacionadas aos voos.
 ### Dimensão
 
 **`dim_empresas`**
+**`dim_aeroporto`**
 
 Contém informações das companhias aéreas, permitindo relacionar o código ICAO da empresa aos seus respectivos nomes.
 
